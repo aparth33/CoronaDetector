@@ -6,8 +6,8 @@ Example:
  /usr/bin/python3 /home/dell/Desktop/Corona/main.py
 
 Working Preview:
-![Screenshot1](Screenshots/Corona_1.png)
+![Screenshot1](screenshots/Corona_1.png)
 
-![Screenshot2](Screenshots/Corona_2.png)
+![Screenshot2](screenshots/Corona_2.png)
 
-![Screenshot3](Screenshots/Corona_3.png)
+![Screenshot3](screenshots/Corona_3.png)
